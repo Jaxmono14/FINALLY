@@ -1,0 +1,36 @@
+
+
+.backgroundcolor{
+    background-color: darkgrey;
+}
+
+
+.linkcolor{ color:white;
+}
+
+.center{
+text-align: center;
+}
+
+.leftcenter{
+    text-align: justify;
+}
+
+a:hover {
+    color:white;
+    
+  }
+.stylecolor{
+    color:white
+}
+
+.fontsize{
+    font-size: medium;
+}
+
+
+.FONTCHANGE {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
