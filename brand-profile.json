@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0",
+  "brand_name": "Proven.",
+  "website_url": "https://tryprovenperformance.com",
+  "extracted_at": "2026-04-17T00:00:00Z",
+  "extraction_note": "Low confidence on colors/typography — site returned 403 for all server-side requests (WAF/Cloudflare). Brand voice and positioning extracted from search index metadata and cached descriptions.",
+
+  "voice": {
+    "formal_casual": 5,
+    "rational_emotional": 3,
+    "playful_serious": 5,
+    "bold_subtle": 8,
+    "traditional_innovative": 7,
+    "expert_accessible": 6,
+    "descriptors": ["direct", "science-forward", "results-driven", "clean", "bold"]
+  },
+
+  "colors": {
+    "primary": null,
+    "secondary": [],
+    "forbidden": ["garish neon", "muddy earth tones"],
+    "background": null,
+    "text": null
+  },
+
+  "typography": {
+    "heading_font": null,
+    "body_font": null,
+    "pairing_descriptor": "Could not extract — site blocked server-side requests. Likely modern geometric sans-serif given performance/clean positioning."
+  },
+
+  "imagery": {
+    "style": "professional photography",
+    "subjects": ["athletes in motion", "clean product shots on minimal backgrounds", "post-workout recovery moments", "close-up of supplement texture/gummies"],
+    "composition": "clean backgrounds, generous negative space, bold product hero angles",
+    "forbidden": ["cheesy stock photos", "fake smiling gym people", "cluttered backgrounds", "before/after body imagery", "unqualified health claims imagery"]
+  },
+
+  "aesthetic": {
+    "mood_keywords": ["high performance", "clean", "premium", "scientific", "confident"],
+    "texture": "minimal",
+    "negative_space": "generous"
+  },
+
+  "brand_values": ["science-backed formulation", "clean ingredients", "real performance", "transparency", "taste without compromise"],
+
+  "target_audience": {
+    "age_range": "22-40",
+    "profession": "active adults, gym-goers, competitive amateur athletes, fitness enthusiasts",
+    "pain_points": [
+      "supplements that taste awful",
+      "ingredient labels they can't trust or understand",
+      "slow post-workout recovery",
+      "pre-workout products with crashes or jitters",
+      "inconvenient powder-only formats"
+    ],
+    "aspirations": [
+      "peak athletic performance",
+      "faster muscle recovery",
+      "clean body — no artificial junk",
+      "visible, measurable results",
+      "supplements that fit their lifestyle (on-the-go gummies)"
+    ]
+  }
+}
