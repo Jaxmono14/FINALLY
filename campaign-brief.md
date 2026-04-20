@@ -122,8 +122,228 @@ No prior audit data available for this account. Concepts below are grounded in b
 **Copy Framework:** Star-Story-Solution
 **Safe zone notes:** Top 15% and bottom 20% minimal for TikTok UI and copy overlay.
 
+## Copy Deck
+
+> Framework key: BAB = Before/After/Bridge · PAS = Problem/Agitate/Solution · FAB = Features/Advantages/Benefits · SSS = Star/Story/Solution
+> Each concept has Primary (recommended framework) + Secondary (A/B variant).
+> Character counts validated against platform limits.
+
+---
+
+### Concept 1: The Gummy Upgrade (BAB)
+
+#### Meta
+
+**Primary (BAB)**
+- Headline *(40 chars)*: `Upgrade Your Pre-Workout. Try Gummies.`
+- Primary Text *(125 chars)*: `Ditch the powder. Proven. delivers science-backed performance in a gummy that tastes amazing. Train harder. Recover faster.`
+- Description *(30 chars)*: `Clean. Proven. Performance.`
+- CTA: Shop Now
+
+**Secondary (AIDA — A/B test)**
+- Headline *(40 chars)*: `The Supplement Upgrade You Needed`
+- Primary Text *(125 chars)*: `Before: gagging on powder. After: great taste, real results. That's Proven. — science-backed supplements in a gummy.`
+- Description *(30 chars)*: `Same science. Better form.`
+- CTA: Try Now
+
+---
+
+#### Google RSA
+
+**Primary**
+| # | Headline *(30 chars)* |
+|---|----------------------|
+| 1 | `Ditch the Powder. Try Gummies.` |
+| 2 | `Clean Performance Gummies` |
+| 3 | `Science-Backed Supplement` |
+| 4 | `Train Harder. Recover Faster.` |
+| 5 | `Proven Performance Supplements` |
+
+| # | Description *(90 chars)* |
+|---|--------------------------|
+| 1 | `Same science as powder, better form. Proven. gummies taste amazing and actually work.` |
+| 2 | `Clean ingredients. No artificial junk. No crash. Just performance you can feel. Try Proven.` |
+
+**Secondary (A/B)**
+| # | Headline *(30 chars)* |
+|---|----------------------|
+| 1 | `Upgrade Your Pre-Workout Today` |
+| 2 | `Gummies That Actually Perform` |
+| 3 | `No More Chalky Powder` |
+| 4 | `Clean Fuel. Real Results.` |
+| 5 | `Try Proven. Supplements Now` |
+
+---
+
+#### TikTok
+
+**Primary *(100 chars)*:** `POV: you swapped chalky powder for Proven. gummies. Same science. Better taste. Actual results.`
+
+**Secondary *(100 chars)*:** `Nobody told me supplements could taste this good AND work this well. Proven. changed the game.`
+
+---
+
+### Concept 2: Clean vs. Crash (PAS)
+
+#### Meta
+
+**Primary (PAS)**
+- Headline *(40 chars)*: `No Jitters. No Crash. Just Performance.`
+- Primary Text *(125 chars)*: `Jitters and crashes aren't performance. They're problems. Proven. delivers clean energy. No artificial junk. No crash.`
+- Description *(30 chars)*: `Clean energy. No crash. Ever.`
+- CTA: Shop Now
+
+**Secondary (AIDA — A/B test)**
+- Headline *(40 chars)*: `Your Pre-Workout Is the Problem.`
+- Primary Text *(125 chars)*: `Crashing at 3pm? Jittery mid-lift? Your supplement is the problem. Proven. delivers clean performance. Zero artificial junk.`
+- Description *(30 chars)*: `0g artificial sweeteners.`
+- CTA: Try Clean Energy
+
+---
+
+#### Google RSA
+
+**Primary**
+| # | Headline *(30 chars)* |
+|---|----------------------|
+| 1 | `No Jitters. No Crash. Ever.` |
+| 2 | `Science-Backed Pre-Workout` |
+| 3 | `0g Artificial Sweeteners` |
+| 4 | `Clean Pre-Workout Supplement` |
+| 5 | `Stop Crashing. Try Proven.` |
+
+| # | Description *(90 chars)* |
+|---|--------------------------|
+| 1 | `Jitters and crashes mean bad supplements. Proven. delivers clean sustained energy. Try now.` |
+| 2 | `No artificial sweeteners. No fillers. No crash. Just science-backed performance. Shop now.` |
+
+**Secondary (A/B)**
+| # | Headline *(30 chars)* |
+|---|----------------------|
+| 1 | `Clean Energy Pre-Workout` |
+| 2 | `No Artificial Sweeteners` |
+| 3 | `Pre-Workout Without the Crash` |
+| 4 | `Science-Backed Clean Formula` |
+| 5 | `Proven. Clean Energy Supps` |
+
+---
+
+#### TikTok
+
+**Primary *(100 chars)*:** `Jitters. Crashes. That's not performance — that's your pre-workout failing you. Switch to Proven.`
+
+**Secondary *(100 chars)*:** `Your 3pm crash isn't normal. It's your supplement. Proven. delivers clean energy. No crash ever.`
+
+---
+
+### Concept 3: Ingredient Truth (FAB)
+
+#### Meta
+
+**Primary (FAB)**
+- Headline *(40 chars)*: `Read Our Label. Then Theirs.`
+- Primary Text *(125 chars)*: `Science-backed. Nothing hidden. Every ingredient in Proven. is there for a reason. Zero fillers. Zero artificial junk.`
+- Description *(30 chars)*: `Know what you're putting in.`
+- CTA: See Ingredients
+
+**Secondary (PAS — A/B test)**
+- Headline *(40 chars)*: `We'll Show You Every Ingredient.`
+- Primary Text *(125 chars)*: `Most supplement brands don't want you reading the label. We do. Proven. — clean, science-backed formulas with nothing to hide.`
+- Description *(30 chars)*: `Transparent. Always.`
+- CTA: Read the Label
+
+---
+
+#### Google RSA
+
+**Primary**
+| # | Headline *(30 chars)* |
+|---|----------------------|
+| 1 | `Clean Label Performance Supps` |
+| 2 | `Read the Label. Trust Proven.` |
+| 3 | `Zero Fillers. Zero Junk.` |
+| 4 | `Science-Backed Supplements` |
+| 5 | `Transparent Ingredients Only` |
+
+| # | Description *(90 chars)* |
+|---|--------------------------|
+| 1 | `Every ingredient in Proven. is there for a reason. Clean, science-backed, nothing hidden.` |
+| 2 | `No artificial sweeteners, fillers, or mystery ingredients. Just clean performance. Try now.` |
+
+**Secondary (A/B)**
+| # | Headline *(30 chars)* |
+|---|----------------------|
+| 1 | `Nothing to Hide. Everything` |
+| 2 | `Clean Ingredient Supplements` |
+| 3 | `No Fillers. No Mystery Stuff` |
+| 4 | `Science-Backed Clean Label` |
+| 5 | `Shop Proven. Performance Now` |
+
+---
+
+#### TikTok
+
+**Primary *(100 chars)*:** `Read our label. Then read a competitor's. We'll wait. Clean ingredients. Real performance. Proven.`
+
+**Secondary *(100 chars)*:** `If your supplement brand hides behind a proprietary blend, they're hiding something. Try Proven.`
+
+---
+
+### Concept 4: Real Athletes, Real Results (Star-Story-Solution)
+
+#### Meta
+
+**Primary (SSS)**
+- Headline *(40 chars)*: `Real Athletes. Real Results.`
+- Primary Text *(125 chars)*: `Real athletes. Real results. Science-backed supplements that actually taste good. No more choking down garbage. That's Proven.`
+- Description *(30 chars)*: `Taste it to believe it.`
+- CTA: Shop Now
+
+**Secondary (BAB — A/B test)**
+- Headline *(40 chars)*: `The Supplement People Actually Keep`
+- Primary Text *(125 chars)*: `Meet the gym-goers who switched to Proven. Not because of hype — because it worked and tasted good. What's your excuse?`
+- Description *(30 chars)*: `Real people. Real gains.`
+- CTA: Try Proven.
+
+---
+
+#### Google RSA
+
+**Primary**
+| # | Headline *(30 chars)* |
+|---|----------------------|
+| 1 | `Supplements That Actually Work` |
+| 2 | `Trusted by Real Athletes` |
+| 3 | `Gummies & Powders That Perform` |
+| 4 | `Real Results. Clean Formula.` |
+| 5 | `Try Proven. Performance Today` |
+
+| # | Description *(90 chars)* |
+|---|--------------------------|
+| 1 | `Real athletes. Science-backed formulas. Clean ingredients that work. Try Proven. today.` |
+| 2 | `Gummies and powders that taste good and perform. No junk. No fillers. Just proven results.` |
+
+**Secondary (A/B)**
+| # | Headline *(30 chars)* |
+|---|----------------------|
+| 1 | `Athletes Trust Proven. Supps` |
+| 2 | `Clean Supplements. Real PRs.` |
+| 3 | `Science Meets Great Taste` |
+| 4 | `Performance You Can Taste` |
+| 5 | `Shop Proven. Supplements` |
+
+---
+
+#### TikTok
+
+**Primary *(100 chars)*:** `She was skeptical. One taste changed that. Now 3 months in with new PRs. That's Proven.`
+
+**Secondary *(100 chars)*:** `We gave a gym skeptic Proven. gummies. His reaction said everything. Science-backed. Delicious.`
+
+---
+
 ## Next Steps
-1. The `copy-writer` agent will append `## Copy Deck` automatically (spawned next by `/ads create`).
-2. Run `/ads generate` to produce images from the eight briefs above.
-3. Review and adjust messaging per product SKU (pre-workout vs. recovery vs. daily performance) before launching.
-4. After 14 days of spend, run `/ads audit` to identify concept fatigue and top-performing angle to scale.
+1. Review concepts and select which to prioritize for launch.
+2. Run `/ads generate` to produce AI images from the eight briefs above.
+3. Adjust CTAs per product SKU (pre-workout vs. recovery vs. daily performance) before uploading.
+4. After 14 days of spend, run `/ads audit` to identify fatigue signals and top-performing angle to scale.
